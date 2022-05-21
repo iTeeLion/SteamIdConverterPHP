@@ -1,5 +1,9 @@
 <?php
 
+/*
+ *  GitHub: https://github.com/iTeeLion/SteamIdConverterPHP
+ *  Copyright iTeeLion 2020-∞
+ */
 
 namespace App\Steam;
 
